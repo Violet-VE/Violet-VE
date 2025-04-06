@@ -2,7 +2,7 @@
 
 # Hey! Welcome!
 
-This is My Github Page, I'm 朱天浩(Tianhao Zhu), I'm **Unreal Engine Developer** from **china**, You can call me **Violet**. The name **Violet** comes from [Violet_Evergarden](https://en.wikipedia.org/wiki/Violet_Evergarden)
+This is My Github Page, I'm 朱天浩(Tianhao Zhu), I'm ~~Unreal Engine Developer~~ **C# Developer** from **china**, You can call me **Violet**. The name **Violet** comes from [Violet_Evergarden](https://en.wikipedia.org/wiki/Violet_Evergarden)
 
 My dream is **Full Stack Technical Art**
 
